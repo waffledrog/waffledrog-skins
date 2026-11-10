@@ -10,8 +10,9 @@ These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and b
 # [Aristia](https://drive.google.com/file/d/1c89neQ3hZ5vuJ6sIJsela2MfYhkym0Uy/view?usp=drive_link)
 ![](https://i.imgur.com/U2k1cj3.jpeg)
 
-# []()
-![]()
+# [Aristia(z) + Zylice Cursor-Hitsounds Change](https://drive.google.com/file/d/13ntX9Fwfw6kkcAo2zfcWeLRM9E9CoHVi/view?usp=drive_link)
+![](<img width="2560" height="1440" alt="osu_2026-11-10_18-18-25" src="https://github.com/user-attachments/assets/c021f9ce-b1c2-4e94-99d6-5bd6dcd026e2" />
+)
 
 # []()
 ![]()
