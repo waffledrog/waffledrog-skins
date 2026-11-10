@@ -5,7 +5,7 @@ These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and b
 ![](https://i.imgur.com/3TCUfce.png)
 
 # [Aricin x Len Mix](https://drive.google.com/file/d/11Rz1nlbX8IhlOkXKK23XcO9THsWZf-NW/view?usp=sharing)
-![](https://i.imgur.com/pfUGNdV.png)
+![](https://i.imgur.com/QREu1CV.jpeg)
 
 # [Kagamine Len](https://drive.google.com/file/d/1iQTE6P698gJHFXTA9lnCWi3suAt2KHMe/view?usp=sharing)
 ![](https://i.imgur.com/9rlmFkU.png)
