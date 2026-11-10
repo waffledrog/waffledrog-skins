@@ -4,7 +4,7 @@ These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and b
 # [ALL SKINS GOOGLE DRIVE FOLDER](https://drive.google.com/file/d/11aIbscsl38a9-ZIyOW4h8JUhYLYRog85/view?usp=sharing)
 ![](https://i.imgur.com/3TCUfce.png)
 
-# [Aristia(Edit)+trail](https://drive.google.com/file/d/11aIbscsl38a9-ZIyOW4h8JUhYLYRog85/view?usp=sharing)
+# [Aricin x Len Mix](https://drive.google.com/file/d/11Rz1nlbX8IhlOkXKK23XcO9THsWZf-NW/view?usp=sharing)
 ![](https://i.imgur.com/pfUGNdV.png)
 
 # [Kagamine Len](https://drive.google.com/file/d/1iQTE6P698gJHFXTA9lnCWi3suAt2KHMe/view?usp=sharing)
