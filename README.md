@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="osu_2026-11-10_18-22-47" src="https://github.com/user-attachments/assets/ed3cb16f-eef3-425c-bdce-d3e08f6c4d40" /># findingbrain-skins
+findingbrain-skins
 These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and broiiler for [Mrekk's osu! Skins](https://github.com/DevenRam/mrekk-osu-Skins). Many of these skins are made with [osu! Skin Mixer](https://osu.ppy.sh/community/forums/topics/1458320?n=1) by rednir so please go check their sites out and give them some love.
 
 # [ALL SKINS GOOGLE DRIVE FOLDER](https://drive.google.com/file/d/11aIbscsl38a9-ZIyOW4h8JUhYLYRog85/view?usp=sharing)
