@@ -1,8 +1,7 @@
-findingbrain-skins
-These are FindingBrain/MintPi's osu! skins. Original list made by DevenRam and broiiler for [Mrekk's osu! Skins](https://github.com/DevenRam/mrekk-osu-Skins). Many of these skins are made with [osu! Skin Mixer](https://osu.ppy.sh/community/forums/topics/1458320?n=1) by rednir so please go check their sites out and give them some love.
+these are all of Waffledrog's osu! skins - original list made by DevenRam and broiiler for [Mrekk's osu! Skins](https://github.com/DevenRam/mrekk-osu-Skins). many of these skins are made with [osu! Skin Mixer](https://osu.ppy.sh/community/forums/topics/1458320?n=1) by rednir so please go check their sites out and give them some love! Note: a lot of these were made on lazer so the ui for stable might be kinda fucked. everything else should be good tho!
 
-# [ALL SKINS GOOGLE DRIVE FOLDER](https://drive.google.com/file/d/11aIbscsl38a9-ZIyOW4h8JUhYLYRog85/view?usp=sharing)
-![](https://i.imgur.com/3TCUfce.png)
+# [ALL SKINS GOOGLE DRIVE FOLDER](https://drive.google.com/drive/folders/1V-DAvJGpEsyV90VB6d0g6JwHzx4vyXg_?usp=drive_link)
+![](https://github.com/user-attachments/assets/a6a3ae76-8d12-41f6-87c0-5ecd85831f89)
 
 # [Aricin x Len Mix](https://drive.google.com/file/d/11Rz1nlbX8IhlOkXKK23XcO9THsWZf-NW/view?usp=sharing)
 ![](https://i.imgur.com/QREu1CV.jpeg)
