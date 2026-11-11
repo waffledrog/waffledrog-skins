@@ -82,8 +82,7 @@ these are all of Waffledrog's osu! skins - original list made by DevenRam and br
 ![](https://github.com/user-attachments/assets/fc0a5c40-4bed-44ed-8546-9644bd129349)
 
 # [Selyu](https://drive.google.com/file/d/1_yZdREikxLIeFCxyccfNfTsdJFJcTN2U/view?usp=drive_link)
-![](<img width="2560" height="1440" alt="osu_2026-11-10_18-25-05" src="https://github.com/user-attachments/assets/36cfd20e-b7d2-45d2-aa64-679b95984e43" />
-)
+![](https://github.com/user-attachments/assets/36cfd20e-b7d2-45d2-aa64-679b95984e43)
 
 # [SPUTNIX-NM v1.1](https://drive.google.com/file/d/1ai7s_Z-LuxfiQLWiKvqfvYINJap3YNjG/view?usp=drive_link)
 ![](https://github.com/user-attachments/assets/16586345-fe88-43a8-ab90-92da54565bb2)
